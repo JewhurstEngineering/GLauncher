@@ -1,6 +1,6 @@
 # GLauncher Web
 
-This repository contains the **marketing and download page** for **GLauncher**, a Windows app by [Pine Street Technology](https://github.com/PineStreetTechnology) that lets you group applications together and launch them all at once.
+This repository contains the **marketing and download page** for **GLauncher**, a Windows app by [Jewhurst Engineering](https://github.com/JewhurstEngineering) that lets you group applications together and launch them all at once.
 
 GLauncher is ideal for:
 
@@ -16,11 +16,11 @@ Anyone who regularly opens the same set of apps can save time by launching them 
 
 The **Download for Windows** buttons on the site point to the latest installer hosted as a **GitHub Release asset** in the main app repository:
 
-- Repo: [`PineStreetTechnology/GLauncher`](https://github.com/PineStreetTechnology/GLauncher)
+- Repo: [`JewhurstEngineering/GLauncher`](https://github.com/JewhurstEngineering/GLauncher)
 - Latest installer URL (used by the site):
 
   ```text
-  https://github.com/PineStreetTechnology/GLauncher/releases/latest/download/GLauncher-Setup.exe
+  https://github.com/JewhurstEngineering/GLauncher/releases/latest/download/GLauncher-Setup.exe
   ```
 
 GitHub Releases provides **download counts** for the installer asset.
@@ -44,7 +44,7 @@ Once running, you can:
 
 For more details about the app itself, see the main project repository:
 
-- <https://github.com/PineStreetTechnology/GLauncher>
+- <https://github.com/JewhurstEngineering/GLauncher>
 
 ---
 
